@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act of Common Council for the Better Relief of the Poor Within the City of London, and Liberties Thereof</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49019</idno><idno type="EEBO-CITATION">18489404</idno>
+  <idno type="VID">107888</idno>
+  <idno type="EEBO-PROQUEST">2248549883</idno>
+  
+            <idno type="STC">Wing L2861K</idno>
+            <idno type="STC">ESTC R39798</idno>
+            <idno type="OCLC">18489404</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49019)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107888)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:51)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act of Common Council for the Better Relief of the Poor Within the City of London, and Liberties Thereof</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Roycroft ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Workhouses --  Law and legislation --  England --  London.</term>
+               <term type="topical_term">Poor laws --  England --  London.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107888:1"/>
+            <pb facs="tcp:107888:1"/>
+            <p>AN ACT OF COMMON COUNCIL FOR THE <hi>Better Relief of the Poor</hi> WITHIN THE CITY OF LONDON, And LIBERTIES thereof.</p>
+            <p>Printed by <hi>Samuel Roycroft,</hi> Printer to the Honourable City of <hi>LONDON,</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:107888:2"/>
+            <pb n="1" facs="tcp:107888:2"/>
+            <head>Commune Concilium tent' in Camera <hi>Guihald'</hi> Civitat' <hi>LONDON',</hi> die <hi>Jovis</hi> Octavo die <hi>Decembr',</hi> Anno Domini 1698. Annoque Regni Domini Nostri WILLIELMI Tertij, nunc Regis <hi>Angliae, &amp;c.</hi> Decimo. Coram <hi>Francisco Child</hi> Mil', Majore dictae Civitatis, <hi>Roberto Clayton</hi> Mil', <hi>Johanne Moore</hi> Mil', <hi>Willielmo Hedges</hi> Mil', <hi>Thoma Rawlinson</hi> Mil', <hi>Roberto Bedding<g ref="char:EOLhyphen"/>field</hi> Mil', ac ejusdem Civitat' Aldermannis: Nec<g ref="char:EOLhyphen"/>non major' parte Communiar' in eodem Commune Concil' tunc &amp; ibidem assemblat'.</head>
+            <head type="sub">An <hi>ACT</hi> of <hi>Common Council,</hi> For the Raising of Five Thousand One Hundred and One Pound, Eighteen Shillings and Six Pence; For a <hi>Stock</hi> towards Em<g ref="char:EOLhyphen"/>ploying the POOR of the CITT of <hi>LONDON</hi> and <hi>Liberties</hi> thereof.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS in and by an Act of Parliament, made <hi>Anno 13 &amp; 14 CAROLI Secundi Regis,</hi> Entituled <hi>An Act for the better Relief of the POOR of this Kingdom;</hi> It was (amongst other things) Enacted, That from thenceforth there be, and shall or may be One or more <hi>Corporation</hi> or <hi>Corporations, Work-house</hi> or <hi>Work-houses,</hi> within the City of
+<pb n="2" facs="tcp:107888:3"/>
+               <hi>London,</hi> consisting of a <hi>President,</hi> a <hi>Deputy</hi> to the <hi>President,</hi> and a <hi>Treasurer;</hi> And that the <hi>Lord Mayor</hi> for the time being, be <hi>President</hi> of the said <hi>Corpo<g ref="char:EOLhyphen"/>ration, Workhouse</hi> or <hi>Workhouses</hi> within the said City; And the <hi>Assistants</hi> to be the <hi>Aldermen</hi> of the said City for the time being, and <hi>Fifty two</hi> other <hi>Citizens</hi> to be Chosen by the <hi>Common Council</hi> of the said City; And that the said <hi>President</hi> and <hi>Assistants,</hi> or the Major part of them, shall and may Elect a <hi>Deputy President</hi> and <hi>Treasurer,</hi> and all other necessary Officers thereby constituted to Ex<g ref="char:EOLhyphen"/>ecute the Powers and Offices appointed by the said Act.</p>
+            <p>And whereas the <hi>Common Council</hi> of the said City, have in Pursuance of the said Act Erected and Chosen a <hi>Corporation,</hi> for the Purposes in the said Act mentioned; And the <hi>President</hi> and <hi>Gover<g ref="char:EOLhyphen"/>nours</hi> have Elected a <hi>Deputy President</hi> and <hi>Trea<g ref="char:EOLhyphen"/>surer</hi> and other Officers; which said <hi>President</hi> and <hi>Governours</hi> have met and considered of proper Ways and Methods for Imploying of the <hi>Poor</hi> of this City, and have certified under their <hi>Com<g ref="char:EOLhyphen"/>mon Seal</hi> unto this <hi>Court,</hi> their want and defect of a present Stock for the Foundation of the Work, and for supply thereof, and that the Sum of <hi>Five thousand One hundred and one pound Eight shillings and Six pence,</hi> will be necessary to be raised for the same; And in further Pursuance of the said Act of Parliament, This <hi>Court</hi> hath thereupon agreed the said Sum of <hi>Five thousand One hundred and One pound Eight shillings and Six pence,</hi> shall be raised upon the seberal Parishes and Precincts within the said City and Liberties thereof, in the proportions herein after mentioned.</p>
+            <p>Be it therefore Enacted by the Right Honourable the <hi>Lord Mayor,</hi> the Right Worshipful the <hi>Alder<g ref="char:EOLhyphen"/>men,</hi> and the <hi>Commons</hi> of the said City in <hi>Common Council</hi> Assembled, That the said Sum of <hi>Five thousand One hundred and One pound Eight shillings
+<pb n="3" facs="tcp:107888:3"/>and Six pence,</hi> shall be Rated and Assessed by one entire Assessment, upon the Inhabitants within the said City and Liberties, according to the se<g ref="char:EOLhyphen"/>beral and respective Proportions hereafter fol<g ref="char:EOLhyphen"/>lowing; That is to say,
+<list>
+                  <item>On the Parish of St. <hi>Alban Woodstreet,</hi> Twenty eight pounds Three shillings and Six pence.</item>
+                  <item>On <hi>Alhallows Barkin,</hi> Ninety one pounds Four shillings and Seven pence.</item>
+                  <item>On <hi>Alhallows Breadstreet,</hi> Twenty three pounds Twelve shillings and Six pence.</item>
+                  <item>On <hi>Alhallows the Great,</hi> Fifty six pounds Seven<g ref="char:EOLhyphen"/>teen shillings and Six pence.</item>
+                  <item>On <hi>Alhallows Honylane,</hi> Thirteen pounds.</item>
+                  <item>On <hi>Alhallows the Less,</hi> Twenty five pounds One shilling and Nine pence.</item>
+                  <item>On <hi>Alhallows Lumbardstreet.</hi> Thirty nine pounds Ten shillings and Four pence.</item>
+                  <item>On <hi>Alhallows Stayning,</hi> Thirty seven pounds Thirteen shillings and Three pence.</item>
+                  <item>On <hi>Alhallows the Wall,</hi> Fifty pounds.</item>
+                  <item>On St. <hi>Alphage,</hi> Twenty five pounds One shilling.</item>
+                  <item>On St. <hi>Andrew Hubbard,</hi> Seventeen pounds Thirteen shillings and Three pence.</item>
+                  <item>On St. <hi>Andrew Undershaft,</hi> Eighty one pounds Three shillings Four pence half peny.</item>
+                  <item>On St. <hi>Andrew Wardrobe,</hi> Fifteen pounds.</item>
+                  <item>On St. <hi>Ann Aldersgate,</hi> Twenty seven pounds Three shillings and Ten pence.</item>
+                  <item>On St. <hi>Ann Blackfryers;</hi> Sixty seven pounds Sixteen shillings and Nine pence.</item>
+                  <item>On St. <hi>Anthony, <hi>alias</hi> Antholin,</hi> Twenty nine pounds Eleven pence half peny.</item>
+                  <item>On St. <hi>Austins</hi> Parish, Nineteen pounds Six shillings and Six pence.</item>
+                  <item>On St. <hi>Bartholomew Exchange,</hi> Twenty nine pounds Nineteen shillings and Three pence.</item>
+                  <pb n="4" facs="tcp:107888:4"/>
+                  <item> On St. <hi>Bennet Fink,</hi> Twenty pounds.</item>
+                  <item>On St. <hi>Bennet Gracechurch,</hi> Twenty four pounds Eleven shillings and Ten pence.</item>
+                  <item>On St. <hi>Bennet Paulswhart,</hi> Thirty six pounds Seventeen shillings.</item>
+                  <item>On St. <hi>Bennet Sherehog,</hi> Thirteen pounds eight shillings and Eight pence.</item>
+                  <item>On St. <hi>Botolph Billingsgate,</hi> Fifteen pounds Six<g ref="char:EOLhyphen"/>teen shillings and Six pence.</item>
+                  <item>On <hi>Christ Church,</hi> Fifty five pounds Seven shillings and Eight pence.</item>
+                  <item>On St. <hi>Christophers,</hi> Fifty five pounds Five shillings.</item>
+                  <item>On St. <hi>Clement East-Cheap,</hi> Nineteen pounds Eight shillings Six pence half peny.</item>
+                  <item>On St. <hi>Dionis Backchurch,</hi> Eighty one pounds Ten shillings.</item>
+                  <item>On St. <hi>Dunstan East,</hi> Eighty one pounds Two shillings and Two pence.</item>
+                  <item>On St. <hi>Edmund Lumbardstreet,</hi> Forty six pounds Fourteen shillings Four pence half peny.</item>
+                  <item>On St. <hi>Ethelburga,</hi> Sixty six pounds Ten shil<g ref="char:EOLhyphen"/>lengs and Two pence.</item>
+                  <item>On St. <hi>Faith,</hi> Seventy one pounds Four shil<g ref="char:EOLhyphen"/>lings and Nine pence half peny.</item>
+                  <item>On St. <hi>Gabriel Fenchurch,</hi> Thirty five pounds Nine shillings and Seven pence half peny.</item>
+                  <item>On St. <hi>George Botolph Lane,</hi> Twenty pounds Eleven shillings.</item>
+                  <item>On St. <hi>Gregory by St. Paul,</hi> One hundred and Thirty pounds.</item>
+                  <item>On St. <hi>Hellen,</hi> Forty nine pounds Fifteen shillings Four pence half peny.</item>
+                  <item>On St. <hi>James Dukes-place,</hi> Thirty pounds Ele<g ref="char:EOLhyphen"/>ven shillings and Seven pence.</item>
+                  <item>On St. <hi>James Garlickhith,</hi> Thirty two pounds Five shillings and Six pence.</item>
+                  <item>On St. <hi>John Baptist,</hi> Eighteen pounds Ten shil<g ref="char:EOLhyphen"/>lings One peny half peny.</item>
+                  <pb n="5" facs="tcp:107888:4"/>
+                  <item> On St. <hi>John Evangelist,</hi> Nineteen pounds one shilling and Ten pence half peny.</item>
+                  <item>On St. <hi>John Zachary,</hi> Twenty one pounds Seven shillings and Ten pence.</item>
+                  <item>On St. <hi>Katherine Coleman,</hi> Fifty pounds Six shillings and Five pence.</item>
+                  <item>On St. <hi>Katherine Creechurch,</hi> One hundred and Nine pounds Seventeen shillings.</item>
+                  <item>On St. <hi>Laurence Jury,</hi> and St. <hi>Mary Magdalen Milkstreet.</hi> Eighty four pounds</item>
+                  <item>On St. <hi>Laurence Jury,</hi> and St. <hi>Mary Magdalen Milkstreet.</hi> Eighty shillings.</item>
+                  <item>On St. <hi>Lawrence Pountney,</hi> Thirty seven pounds Ten shillings.</item>
+                  <item>On St. <hi>Leonard Eastcheap,</hi> Fifteen pounds Eighteen shillings and Six pence.</item>
+                  <item>On St. <hi>Leonard Fosterlane,</hi> Thirty two pounds Eleven shillings and Ten pence.</item>
+                  <item>On St. <hi>Magnus Parish,</hi> Thirty pounds.</item>
+                  <item>On St. <hi>Margaret Lothbury,</hi> Forty pounds Ten shillings.</item>
+                  <item>On St. <hi>Margaret Moses,</hi> Twelve pounds Se<g ref="char:EOLhyphen"/>ven shillings and Six pence.</item>
+                  <item>On St. <hi>Margaret Newfishstreet,</hi> Forty pounds Ten shillings and One peny.</item>
+                  <item>On St. <hi>Margaret Pattons,</hi> Twelve pounds Five shillings and Eleven pence.</item>
+                  <item>On St. <hi>Martin Ironmonger-Lane,</hi> Seventeen pounds Nine shillings Four pence half peny.</item>
+                  <item>On St. <hi>Martin Ludgate,</hi> Forty two pounds Sixteen shillings and Eight pence.</item>
+                  <item>On St. <hi>Martin Orgars,</hi> Twenty pounds Fifteen shillings and Ten pence.</item>
+                  <item>On St. <hi>Martin Outwich,</hi> Twenty six pounds Seventeen shillings and Four pence,</item>
+                  <item>On St. <hi>Martin Vintrey,</hi> Twenty nine pounds six shillings and a half peny.</item>
+                  <item>On St. <hi>Mary Abchurch,</hi> Forty one pounds and One peny.</item>
+                  <item>On St. <hi>Mary Aldermanbury,</hi> Thirty four pounds Seventeen shillings.</item>
+                  <pb n="6" facs="tcp:107888:5"/>
+                  <item> On St. <hi>Mary Aldermary,</hi> Fifteen pounds Three shillings Six pence farthing.</item>
+                  <item>On St. <hi>Mary Le Bow,</hi> Seventy five pounds Sixteen shillings and Nine pence.</item>
+                  <item>On St. <hi>Mary Bothaw,</hi> Seventeen pounds.</item>
+                  <item>On St. <hi>Mary Colechurch,</hi> Twenty pounds Nineteen shillings.</item>
+                  <item>On St. <hi>Mary Hill,</hi> Thirty seven pounds Ele<g ref="char:EOLhyphen"/>ven shillings and Seven pence.</item>
+                  <item>On St. <hi>Mary Magdalen Oldfishstreet,</hi> Sixteen pounds Thirteen shillings Peny half peny.</item>
+                  <item>On St. <hi>Mary Monthaw,</hi> Eight pounds Two shillings and Three pence three farthings.</item>
+                  <item>On St. <hi>Mary Somerset,</hi> Twenty two pounds Fifteen shillings and Eight pence.</item>
+                  <item>On St. <hi>Mary Stayning,</hi> Twelve pounds Four shillings and Six pence.</item>
+                  <item>On St. <hi>Mary Woolchurch,</hi> Thirty six pounds Seven shillings.</item>
+                  <item>On St. <hi>Mary Woolnoth,</hi> Forty five pounds Two shillings Eleven pence half peny.</item>
+                  <item>On St. <hi>Matthew Fridaystreet,</hi> Thirty nine pounds Seventeen shillings and nine pence.</item>
+                  <item>On St. <hi>Michael Bassishaw,</hi> Thirty five pounds Five shillings.</item>
+                  <item>On St. <hi>Michael Cornhil,</hi> Eighty four pounds Ten shillings.</item>
+                  <item>On St. <hi>Michael Crookedlane,</hi> Thirty four pounds Six shillings and Eight pence.</item>
+                  <item>On St. <hi>Michael Queenhith,</hi> Twenty seven pounds One shilling and Six pence.</item>
+                  <item>On St. <hi>Michael Quern,</hi> Thirty pounds.</item>
+                  <item>On St. <hi>Michael Royal,</hi> Nine pounds Ten shil<g ref="char:EOLhyphen"/>lings.</item>
+                  <item>On St. <hi>Michael Woodstreet,</hi> Twenty three pounds.</item>
+                  <item>On St. <hi>Mildred Breadstreet,</hi> Nine pounds Eight shillings and Seven pence.</item>
+                  <pb n="7" facs="tcp:107888:5"/>
+                  <item> On St. <hi>Mildred Poultrey,</hi> Twenty eight pounds Thirteen shillings Four pence half peny.</item>
+                  <item>On St. <hi>Nicholas Acons,</hi> Twenty three pounds Three shillings and Eight pence.</item>
+                  <item>On St. <hi>Nicholas Coleabby,</hi> Thirteen pounds Nineteen shillings and Six pence.</item>
+                  <item>On St. <hi>Nicholas Olave,</hi> Ten pounds Seventeen shillings and Three pence.</item>
+                  <item>On St. <hi>Olave Hartstreet,</hi> Sixty four pounds.</item>
+                  <item>On St. <hi>Olave Jewry,</hi> Thirty four pounds Five shillings and Nine pence.</item>
+                  <item>On St. <hi>Olave Silverstreet,</hi> Twenty nine pounds Five shillings Peny half peny.</item>
+                  <item>On St. <hi>Pancras Soperlane,</hi> Twenty nine pounds Two shillings and Three pence.</item>
+                  <item>On St. <hi>Peter Cheap,</hi> Twenty five pounds.</item>
+                  <item>On St. <hi>Peter Cornhill,</hi> Eighty pounds Fifteen shillings.</item>
+                  <item>On St. <hi>Peter Paulswharf,</hi> Ten pounds Seventeen shillings and Six pence.</item>
+                  <item>On St. <hi>Peter Poor,</hi> Sixty five pounds Seven shillings and a Half peny.</item>
+                  <item>On St. <hi>Stephen Colemanstreet,</hi> One hundred and thirteen pounds Ten shillings.</item>
+                  <item>On St. <hi>Stephen Walbrook,</hi> Twenty five pounds.</item>
+                  <item>On St. <hi>Swithin,</hi> Thirty pounds Fifteen shil<g ref="char:EOLhyphen"/>lings and Six pence.</item>
+                  <item>On St. <hi>Thomas Apostle,</hi> Eighteen pounds One shilling and Five pence half peny.</item>
+                  <item>On <hi>Trinity Parish,</hi> Twenty seven pounds Twelve shillings and Seven pence half peny.</item>
+                  <item>On St. <hi>Vedast, <hi>aliàs</hi> Foster,</hi> Twenty six pounds Eleven shillings and Four pence.</item>
+                  <item>On St. <hi>Andrew Holborn,</hi> One hundred Twenty seven pounds Fifteen shillings.</item>
+                  <item>On St. <hi>Bartholomew the Great,</hi> Forty six pounds Eighteen shillings Eleven pence half peny.</item>
+                  <item>On St. <hi>Bartholomew the Less,</hi> Twenty one pounds Fifteen shillings and Six pence.</item>
+                  <pb n="8" facs="tcp:107888:6"/>
+                  <item> On St. <hi>Bridget,</hi> One hundred and sixty pounds Eleven shillings peny half peny.</item>
+                  <item>On St. <hi>Botolph Aldersgate,</hi> One hundred and thirteen pounds Fourteen shillings.</item>
+                  <item>On St. <hi>Botolph Aldgate,</hi> Three hundred and two pounds Eight shillings and Six pence.</item>
+                  <item>On St. <hi>Botolph Bishopsgate,</hi> Three hundred twenty two pounds Thirteen shillings and Six pence.</item>
+                  <item>On St. <hi>Dunstan West,</hi> One hundred and nine pounds Nine shillings and Three pence.</item>
+                  <item>On St. <hi>Giles Cripplegate,</hi> One hundred fifty two pounds Ten shillings.</item>
+                  <item>On St. <hi>Sepulchers Parish,</hi> One hundred eighty three pounds Three shillings and Ten pence.</item>
+               </list>
+            </p>
+            <p>And be it also Enacted, Directed and Appointed, in further Pursuance of the said Act, That the <hi>Alderman, Deputy</hi> and <hi>Common Councilmen</hi> of each Ward, in which any Parish doth entirely lie, and where a Parish doth extend into several Wards, The <hi>Aldermen, Deputies</hi> and <hi>Common Councilmen</hi> of those several Wards, or the major part of them that do appear, (being all duly summoned) shall on or before the <hi>Fifteenth day</hi> of this <hi>Instant Decem<g ref="char:EOLhyphen"/>ber,</hi> meet together in some convenient place, who are hereby Authorized and Required forthwith to put this Act in Execution; And set and appoint such an equal and proportionable Rate of Money. upon the several Inhabitants within such Parish or Precinct, as that the said Assessment may pro<g ref="char:EOLhyphen"/>duce the Sum of Money which every Parish re<g ref="char:EOLhyphen"/>spectively is Rated at, or Appointed to pay as aforesaid, on or before the <hi>Twentieth day</hi> of this <hi>Instant December.</hi>
+            </p>
+            <p>And that the same when Rated or Assessed, they shall Subscribe with their Names, and proture a Warrant under the Hand and Seal or Hands and Seals of any <hi>Alderman</hi> or <hi>Aldermen,</hi> his or their <hi>Deputy</hi> or <hi>Deputies,</hi> to Authorize the said <hi>Church<g ref="char:EOLhyphen"/>wardens</hi> or <hi>Overseers for the Poor,</hi> to Demand, Ga<g ref="char:EOLhyphen"/>ther
+<pb n="9" facs="tcp:107888:6"/>and Receive of every Person and Persons, such Sum and Sums of Money as shall be As<g ref="char:EOLhyphen"/>sessed upon him or them by virtue of this Act, and for default of payment, within <hi>Ten days</hi> after demand thereof made, or Notice in Writing left at the Dwelling House or Lodging of every Per<g ref="char:EOLhyphen"/>son so Assessed, to Levy the same by Distress and Sale of the Goods of every such Person, and af<g ref="char:EOLhyphen"/>ter Satisfaction made, to Restors the Surplusage to the Party so Distrained, and forthwith to deli<g ref="char:EOLhyphen"/>ver the same Rate and Assessment so perfected, to such <hi>Churchwardens</hi> or <hi>Overseers</hi> so appointed to Collect and Receive the same, with which Tax, if any Person or Persons find him or themselves agrieved, supposing the same to be unequal, he and they, shall and may make their Complaint known to the <hi>Justices</hi> of the <hi>Peace</hi> at the next open Sessions, who shall take such final Order therein, as in like Cases is already by Law provided.</p>
+            <p>And for the true Collection and Payment of the said Moneys, which shall be so Collected to the said <hi>Treasurer</hi> for the time being, for the use afore<g ref="char:EOLhyphen"/>said; such Parish or Place shall be answerable for the <hi>Churchwardens</hi> or <hi>Overseers</hi> therein Imployed, which said <hi>Treasurer</hi> shall give Acquittance <hi>Gratis</hi> to the said <hi>Churchwardens</hi> or <hi>Overseers,</hi> for all Mo<g ref="char:EOLhyphen"/>neys of them received, whose Receipt shall be a sufficient Discharge, for so much unto every such respective <hi>Churchwarden</hi> or <hi>Overseer;</hi> And the said <hi>Churchwardens</hi> and <hi>Overseers</hi> are hereby required and enjoyned, to Levy and Collect the same Rates and Assessments, according to the Assessments thereof by them received, and to make demand of the said Rates and Assessments of the Parties themselves, or at the place of their Habitation or Last aboad; And to pay the same unto Sir <hi>William Hedges Knight, Alderman</hi> and <hi>Treasurer</hi> to the said <hi>Pre<g ref="char:EOLhyphen"/>sident</hi> and <hi>Governours,</hi> or to the <hi>Treasurer</hi> for the time being, on or before the last Day of <hi>February</hi> next
+<pb n="10" facs="tcp:107888:7"/>ensuing: And if any <hi>Churchwarden</hi> or <hi>Churchwar<g ref="char:EOLhyphen"/>dens, Overseer</hi> or <hi>Overseers,</hi> so appointed or to be ap<g ref="char:EOLhyphen"/>pointed, shall neglect or refuse to serve, or to per<g ref="char:EOLhyphen"/>form his or their Duty in the speedy and due Exe<g ref="char:EOLhyphen"/>cution of this present Act; every such <hi>Churchwar<g ref="char:EOLhyphen"/>den</hi> or <hi>Overseer,</hi> shall for every such neglect or de<g ref="char:EOLhyphen"/>fault, forfeit and lose the Sum of <hi>Five pounds,</hi> to the said <hi>President</hi> and <hi>Governours,</hi> for the <hi>Poor</hi> of the said <hi>City of London,</hi> for the use of the <hi>Poor,</hi> to be Levied by such Person or Persons, as shall be appointed by the <hi>Court of Lord Mayor and Aldermen,</hi> by Di<g ref="char:EOLhyphen"/>stress, in Manner and Form aforesaid.</p>
+            <p>And it is hereby further Enacted and Declared, That the <hi>Alderman, Deputy</hi> and <hi>Common Council<g ref="char:EOLhyphen"/>men</hi> of each respective Ward, or any of them, shall and are hereby Authorized and Required from time to time, to call before them the <hi>Church<g ref="char:EOLhyphen"/>wardens</hi> and <hi>Overseers</hi> within such respective Pa<g ref="char:EOLhyphen"/>rishes, and so from time to time to examine them, and assure themselves of the full and whole pay<g ref="char:EOLhyphen"/>ment of the particular Sum and Sums of Money charged upon such Parish, and of the due payment thereof into the Hands of the said <hi>Treasurer,</hi> to the end there may be no Failure of the payment of any part thereof: And in case of any failure of the Premisses, The <hi>Alderman, Deputy</hi> and <hi>Com<g ref="char:EOLhyphen"/>mon Councilmen</hi> of such Ward, are hereby Au<g ref="char:EOLhyphen"/>thorized and Required to cause the same to be forthwith Assessed, Levied and Paid according to the true intent and meaning of this Act.</p>
+            <p>And it is hereby further Enacted, Directed and appointed, That all <hi>Sheriffs, Constables,</hi> and all other <hi>Officers</hi> and <hi>Ministers</hi> of <hi>Justice,</hi> shall be Aid<g ref="char:EOLhyphen"/>ing and Assisting to the <hi>Corporation,</hi> and to all such <hi>Officers</hi> as shall be Imployed by them, or any of them, in the Execution or Performance of the said Service.</p>
+            <closer>
+               <signed>GOOD FELLOW.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>SAMƲEL ROYCROFI,</hi> Printer to the Honourable City of <hi>LONDON,</hi> 1698.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
